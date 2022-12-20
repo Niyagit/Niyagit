@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niyagit
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... diploma cse
+- 🌱 I’m currently learning ... AI&ML
 - 💞️ I’m looking to collaborate on ... new project
 - 📫 How to reach me ... ig:niyas_zz_ali
 
